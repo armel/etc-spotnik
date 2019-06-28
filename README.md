@@ -29,6 +29,6 @@ Ajout du retour vers le salon RRF à la fin du script `timersalon.sh`
 ## Observations
 
 - Semble corriger le bug de fonctionnement du timersalon parfois observé
-- Le fait de lancer le script `timersalon.sh` en background permet de rendre la main et de revenir au menu `spot` lorsqu'il est utilisé pour changer de salon.
+- Le fait de lancer le script `timersalon.sh` en background permet de rendre la main et de revenir au menu de l'outil _spot_ CLI, lorsqu'il est utilisé pour changer de salon.
 
 88 & 73 de F4HWN Armel.
