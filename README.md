@@ -4,6 +4,7 @@ Principales évolutions:
 
 - Fix des fichiers wav (merci AleX)
 - Fix sur la gestion du timersalon parfois instable
+- Clean du code
 
 # A propos du fix sur la gestion du timersalon
 
