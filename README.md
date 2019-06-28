@@ -1,11 +1,11 @@
-#Correctifs apportés sur le /etc/spotnik de la version 1.9.5
+# Correctifs apportés sur le /etc/spotnik de la version 1.9.5
 
 Principales évolutions:
 
 - Fix des fichiers wav (merci AleX)
 - Fix sur la gestion du timersalon parfois instable
 
-#A propos du fix sur la gestion du timersalon
+# A propos du fix sur la gestion du timersalon
 
 ## Sur les fichiers restart.*
 
