@@ -31,4 +31,8 @@ Ajout du retour vers le salon RRF à la fin du script `timersalon.sh`
 - Semble corriger le bug de fonctionnement du timersalon parfois observé
 - Le fait de lancer le script `timersalon.sh` en background permet de rendre la main et de revenir au menu de l'outil _spot_ CLI, lorsqu'il est utilisé pour changer de salon.
 
+## Todo (à l'attention de F5NLG)
+
+Non bloquant, mais penser à faire un `chown root:root` sur tous les fichiers du `/etc/spotnik`. Certains appartiennent à l'utilisateur et au group `jp` ;)
+
 88 & 73 de F4HWN Armel.
